@@ -1,3 +1,3 @@
 # Electronic Operating System - [Escuderia Borregos CCM 2025](https://escuderiaborregosccm.com/)
 
-[!se vienen cositas](https://i.pinimg.com/474x/ea/f5/25/eaf525427d72581fff6ce50802f288d7.jpg)
+<img align="right" height="150" src="https://pa1.aminoapps.com/7309/13e5eebae81e01b332a120c4657f60aea1dd1b00r1-320-240_00.gif"  />
