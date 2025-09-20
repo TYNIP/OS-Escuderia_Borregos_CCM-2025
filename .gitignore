@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# Logs & runtime files
+*.log
+*.out
+*.err
+logs/
+*.pid
+
+# Data & generated files
+data/
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test / Coverage
+.coverage
+.pytest_cache/
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Environment configs
+*.env
+.env.*
+config.yaml  # If you don’t want secrets/configs in git
